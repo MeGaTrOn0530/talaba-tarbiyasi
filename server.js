@@ -17,6 +17,9 @@ app.use(express.json()); // JSON ma'lumotlarni o'qish
 // ============================================
 // 2. MA'LUMOTLAR BAZASI MODELLARI
 // ============================================
+// ============================================
+// 2. MA'LUMOTLAR BAZASI MODELLARI
+// ============================================
 
 // USER SCHEMA
 const userSchema = new mongoose.Schema({
