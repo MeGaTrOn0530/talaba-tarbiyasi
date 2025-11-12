@@ -1,0 +1,26 @@
+  "password": "Admin-Talaba-tarbiyasi",
+{
+  "firstName": "Admin",
+  "lastName": "Tarbiya",
+  "email": "admin@talaba.uz",
+  "password": "$2a$10$1W2X6Hk3BLV0v2AY6uOrzO9gYi4kPvPMk6ScPDqR62szSOzCrCN/W",
+  "faculty": "Ma'muriyat",
+  "group": "ADMIN",
+  "course": 0,
+  "isAdmin": true,
+  "createdAt": { "$date": "2025-01-01T00:00:00Z" }
+}
+
+
+
+{
+  "firstName": "talaba",
+  "lastName": "talaba",
+  "email": "talaba@talaba.uz",
+  "password": "talaba123",
+  "faculty": "Ma'muriyat",
+  "group": "talaba",
+  "course": 0,
+  "isAdmin": true,
+  "createdAt": { "$date": "2025-01-01T00:00:00Z" }
+}
